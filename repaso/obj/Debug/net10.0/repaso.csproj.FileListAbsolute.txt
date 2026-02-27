@@ -1,0 +1,14 @@
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\repaso\bin\Debug\net10.0\repaso.exe
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\repaso\bin\Debug\net10.0\repaso.deps.json
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\repaso\bin\Debug\net10.0\repaso.runtimeconfig.json
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\repaso\bin\Debug\net10.0\repaso.dll
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\repaso\bin\Debug\net10.0\repaso.pdb
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\repaso\obj\Debug\net10.0\repaso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\repaso\obj\Debug\net10.0\repaso.AssemblyInfoInputs.cache
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\repaso\obj\Debug\net10.0\repaso.AssemblyInfo.cs
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\repaso\obj\Debug\net10.0\repaso.csproj.CoreCompileInputs.cache
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\repaso\obj\Debug\net10.0\repaso.dll
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\repaso\obj\Debug\net10.0\refint\repaso.dll
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\repaso\obj\Debug\net10.0\repaso.pdb
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\repaso\obj\Debug\net10.0\repaso.genruntimeconfig.cache
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\repaso\obj\Debug\net10.0\ref\repaso.dll

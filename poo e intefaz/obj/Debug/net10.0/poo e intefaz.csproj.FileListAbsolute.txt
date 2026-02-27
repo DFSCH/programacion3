@@ -1,0 +1,14 @@
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\poo e intefaz\bin\Debug\net10.0\poo e intefaz.exe
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\poo e intefaz\bin\Debug\net10.0\poo e intefaz.deps.json
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\poo e intefaz\bin\Debug\net10.0\poo e intefaz.runtimeconfig.json
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\poo e intefaz\bin\Debug\net10.0\poo e intefaz.dll
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\poo e intefaz\bin\Debug\net10.0\poo e intefaz.pdb
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\poo e intefaz\obj\Debug\net10.0\poo e intefaz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\poo e intefaz\obj\Debug\net10.0\poo e intefaz.AssemblyInfoInputs.cache
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\poo e intefaz\obj\Debug\net10.0\poo e intefaz.AssemblyInfo.cs
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\poo e intefaz\obj\Debug\net10.0\poo e intefaz.csproj.CoreCompileInputs.cache
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\poo e intefaz\obj\Debug\net10.0\poo e intefaz.dll
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\poo e intefaz\obj\Debug\net10.0\refint\poo e intefaz.dll
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\poo e intefaz\obj\Debug\net10.0\poo e intefaz.pdb
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\poo e intefaz\obj\Debug\net10.0\poo e intefaz.genruntimeconfig.cache
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\poo e intefaz\obj\Debug\net10.0\ref\poo e intefaz.dll
