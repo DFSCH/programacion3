@@ -1,0 +1,15 @@
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\poo de la mañana\bin\Debug\net10.0\poo de la mañana.exe
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\poo de la mañana\bin\Debug\net10.0\poo de la mañana.deps.json
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\poo de la mañana\bin\Debug\net10.0\poo de la mañana.runtimeconfig.json
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\poo de la mañana\bin\Debug\net10.0\poo de la mañana.dll
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\poo de la mañana\bin\Debug\net10.0\poo de la mañana.pdb
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\poo de la mañana\obj\Debug\net10.0\poo de la mañana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\poo de la mañana\obj\Debug\net10.0\poo de la mañana.AssemblyInfoInputs.cache
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\poo de la mañana\obj\Debug\net10.0\poo de la mañana.AssemblyInfo.cs
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\poo de la mañana\obj\Debug\net10.0\poo de la mañana.csproj.CoreCompileInputs.cache
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\poo de la mañana\obj\Debug\net10.0\poo de la mañana.sourcelink.json
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\poo de la mañana\obj\Debug\net10.0\poo de la mañana.dll
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\poo de la mañana\obj\Debug\net10.0\refint\poo de la mañana.dll
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\poo de la mañana\obj\Debug\net10.0\poo de la mañana.pdb
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\poo de la mañana\obj\Debug\net10.0\poo de la mañana.genruntimeconfig.cache
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\poo de la mañana\obj\Debug\net10.0\ref\poo de la mañana.dll

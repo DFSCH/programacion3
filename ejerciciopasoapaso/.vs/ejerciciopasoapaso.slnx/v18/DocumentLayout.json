@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dfsch\\OneDrive\\Documents\\GitHub\\programacion3\\ejerciciopasoapaso\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66FC911A-103E-0358-14B3-7AC9DBDD6B29}|ejerciciopasoapaso.csproj|c:\\users\\dfsch\\onedrive\\documents\\github\\programacion3\\ejerciciopasoapaso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66FC911A-103E-0358-14B3-7AC9DBDD6B29}|ejerciciopasoapaso.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66FC911A-103E-0358-14B3-7AC9DBDD6B29}|ejerciciopasoapaso.csproj|c:\\users\\dfsch\\onedrive\\documents\\github\\programacion3\\ejerciciopasoapaso\\modelo\\podcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66FC911A-103E-0358-14B3-7AC9DBDD6B29}|ejerciciopasoapaso.csproj|solutionrelative:modelo\\podcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66FC911A-103E-0358-14B3-7AC9DBDD6B29}|ejerciciopasoapaso.csproj|c:\\users\\dfsch\\onedrive\\documents\\github\\programacion3\\ejerciciopasoapaso\\modelo\\cancion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66FC911A-103E-0358-14B3-7AC9DBDD6B29}|ejerciciopasoapaso.csproj|solutionrelative:modelo\\cancion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66FC911A-103E-0358-14B3-7AC9DBDD6B29}|ejerciciopasoapaso.csproj|c:\\users\\dfsch\\onedrive\\documents\\github\\programacion3\\ejerciciopasoapaso\\interfaces\\ireproductor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66FC911A-103E-0358-14B3-7AC9DBDD6B29}|ejerciciopasoapaso.csproj|solutionrelative:interfaces\\ireproductor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Podcast.cs",
+              "DocumentMoniker": "C:\\Users\\dfsch\\OneDrive\\Documents\\GitHub\\programacion3\\ejerciciopasoapaso\\Modelo\\Podcast.cs",
+              "RelativeDocumentMoniker": "Modelo\\Podcast.cs",
+              "ToolTip": "C:\\Users\\dfsch\\OneDrive\\Documents\\GitHub\\programacion3\\ejerciciopasoapaso\\Modelo\\Podcast.cs",
+              "RelativeToolTip": "Modelo\\Podcast.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwBEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T13:56:14.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cancion.cs",
+              "DocumentMoniker": "C:\\Users\\dfsch\\OneDrive\\Documents\\GitHub\\programacion3\\ejerciciopasoapaso\\Modelo\\Cancion.cs",
+              "RelativeDocumentMoniker": "Modelo\\Cancion.cs",
+              "ToolTip": "C:\\Users\\dfsch\\OneDrive\\Documents\\GitHub\\programacion3\\ejerciciopasoapaso\\Modelo\\Cancion.cs",
+              "RelativeToolTip": "Modelo\\Cancion.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T13:51:35.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ireproductor.cs",
+              "DocumentMoniker": "C:\\Users\\dfsch\\OneDrive\\Documents\\GitHub\\programacion3\\ejerciciopasoapaso\\Interfaces\\Ireproductor.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Ireproductor.cs",
+              "ToolTip": "C:\\Users\\dfsch\\OneDrive\\Documents\\GitHub\\programacion3\\ejerciciopasoapaso\\Interfaces\\Ireproductor.cs",
+              "RelativeToolTip": "Interfaces\\Ireproductor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T13:46:43.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dfsch\\OneDrive\\Documents\\GitHub\\programacion3\\ejerciciopasoapaso\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\dfsch\\OneDrive\\Documents\\GitHub\\programacion3\\ejerciciopasoapaso\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwCIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T13:44:10.122Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

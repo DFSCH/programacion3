@@ -13,14 +13,14 @@ namespace poo_e_intefaz.taller_2
     public class Cancion : IReproductor
     {
         public string Titulo { get; set; }
-        public void Play() => Console.WriteLine($"Reproduciendo canción: {Titulo} 🎵");
+        public void Play() => Console.WriteLine($"Reproduciendo canción: {Titulo} ");
         public void Stop() => Console.WriteLine("Música detenida.");
     }
 
     public class Podcast : IReproductor
     {
         public string Tema { get; set; }
-        public void Play() => Console.WriteLine($"Escuchando podcast sobre: {Tema} 🎙️");
+        public void Play() => Console.WriteLine($"Escuchando podcast sobre: {Tema} ");
         public void Stop() => Console.WriteLine("Podcast detenido.");
     }
 

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dfsch\\OneDrive\\Documents\\GitHub\\programacion3\\poo de la ma\u00F1ana\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39DD2E9B-7022-6713-DAAC-7565A8D25D9E}|poo de la ma\u00F1ana.csproj|c:\\users\\dfsch\\onedrive\\documents\\github\\programacion3\\poo de la ma\u00F1ana\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39DD2E9B-7022-6713-DAAC-7565A8D25D9E}|poo de la ma\u00F1ana.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DD2E9B-7022-6713-DAAC-7565A8D25D9E}|poo de la ma\u00F1ana.csproj|c:\\users\\dfsch\\onedrive\\documents\\github\\programacion3\\poo de la ma\u00F1ana\\taller\\eje3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39DD2E9B-7022-6713-DAAC-7565A8D25D9E}|poo de la ma\u00F1ana.csproj|solutionrelative:taller\\eje3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DD2E9B-7022-6713-DAAC-7565A8D25D9E}|poo de la ma\u00F1ana.csproj|c:\\users\\dfsch\\onedrive\\documents\\github\\programacion3\\poo de la ma\u00F1ana\\taller\\eje1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39DD2E9B-7022-6713-DAAC-7565A8D25D9E}|poo de la ma\u00F1ana.csproj|solutionrelative:taller\\eje1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DD2E9B-7022-6713-DAAC-7565A8D25D9E}|poo de la ma\u00F1ana.csproj|c:\\users\\dfsch\\onedrive\\documents\\github\\programacion3\\poo de la ma\u00F1ana\\taller\\eje2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39DD2E9B-7022-6713-DAAC-7565A8D25D9E}|poo de la ma\u00F1ana.csproj|solutionrelative:taller\\eje2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "eje3.cs",
+              "DocumentMoniker": "C:\\Users\\dfsch\\OneDrive\\Documents\\GitHub\\programacion3\\poo de la ma\u00F1ana\\taller\\eje3.cs",
+              "RelativeDocumentMoniker": "taller\\eje3.cs",
+              "ToolTip": "C:\\Users\\dfsch\\OneDrive\\Documents\\GitHub\\programacion3\\poo de la ma\u00F1ana\\taller\\eje3.cs",
+              "RelativeToolTip": "taller\\eje3.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAADwvwUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T12:00:35.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "eje2.cs",
+              "DocumentMoniker": "C:\\Users\\dfsch\\OneDrive\\Documents\\GitHub\\programacion3\\poo de la ma\u00F1ana\\taller\\eje2.cs",
+              "RelativeDocumentMoniker": "taller\\eje2.cs",
+              "ToolTip": "C:\\Users\\dfsch\\OneDrive\\Documents\\GitHub\\programacion3\\poo de la ma\u00F1ana\\taller\\eje2.cs",
+              "RelativeToolTip": "taller\\eje2.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAswFEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T12:00:26.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "eje1.cs",
+              "DocumentMoniker": "C:\\Users\\dfsch\\OneDrive\\Documents\\GitHub\\programacion3\\poo de la ma\u00F1ana\\taller\\eje1.cs",
+              "RelativeDocumentMoniker": "taller\\eje1.cs",
+              "ToolTip": "C:\\Users\\dfsch\\OneDrive\\Documents\\GitHub\\programacion3\\poo de la ma\u00F1ana\\taller\\eje1.cs",
+              "RelativeToolTip": "taller\\eje1.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAswDoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T12:00:16.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dfsch\\OneDrive\\Documents\\GitHub\\programacion3\\poo de la ma\u00F1ana\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\dfsch\\OneDrive\\Documents\\GitHub\\programacion3\\poo de la ma\u00F1ana\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T11:57:35.875Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

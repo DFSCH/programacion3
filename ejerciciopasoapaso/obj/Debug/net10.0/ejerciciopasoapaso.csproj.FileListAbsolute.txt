@@ -1,0 +1,15 @@
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\ejerciciopasoapaso\bin\Debug\net10.0\ejerciciopasoapaso.exe
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\ejerciciopasoapaso\bin\Debug\net10.0\ejerciciopasoapaso.deps.json
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\ejerciciopasoapaso\bin\Debug\net10.0\ejerciciopasoapaso.runtimeconfig.json
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\ejerciciopasoapaso\bin\Debug\net10.0\ejerciciopasoapaso.dll
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\ejerciciopasoapaso\bin\Debug\net10.0\ejerciciopasoapaso.pdb
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\ejerciciopasoapaso\obj\Debug\net10.0\ejerciciopasoapaso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\ejerciciopasoapaso\obj\Debug\net10.0\ejerciciopasoapaso.AssemblyInfoInputs.cache
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\ejerciciopasoapaso\obj\Debug\net10.0\ejerciciopasoapaso.AssemblyInfo.cs
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\ejerciciopasoapaso\obj\Debug\net10.0\ejerciciopasoapaso.csproj.CoreCompileInputs.cache
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\ejerciciopasoapaso\obj\Debug\net10.0\ejerciciopasoapaso.sourcelink.json
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\ejerciciopasoapaso\obj\Debug\net10.0\ejerciciopasoapaso.dll
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\ejerciciopasoapaso\obj\Debug\net10.0\refint\ejerciciopasoapaso.dll
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\ejerciciopasoapaso\obj\Debug\net10.0\ejerciciopasoapaso.pdb
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\ejerciciopasoapaso\obj\Debug\net10.0\ejerciciopasoapaso.genruntimeconfig.cache
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\ejerciciopasoapaso\obj\Debug\net10.0\ref\ejerciciopasoapaso.dll
