@@ -1,0 +1,15 @@
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\BIBLIOTECA\bin\Debug\net10.0\BIBLIOTECA.exe
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\BIBLIOTECA\bin\Debug\net10.0\BIBLIOTECA.deps.json
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\BIBLIOTECA\bin\Debug\net10.0\BIBLIOTECA.runtimeconfig.json
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\BIBLIOTECA\bin\Debug\net10.0\BIBLIOTECA.dll
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\BIBLIOTECA\bin\Debug\net10.0\BIBLIOTECA.pdb
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\BIBLIOTECA\obj\Debug\net10.0\BIBLIOTECA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\BIBLIOTECA\obj\Debug\net10.0\BIBLIOTECA.AssemblyInfoInputs.cache
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\BIBLIOTECA\obj\Debug\net10.0\BIBLIOTECA.AssemblyInfo.cs
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\BIBLIOTECA\obj\Debug\net10.0\BIBLIOTECA.csproj.CoreCompileInputs.cache
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\BIBLIOTECA\obj\Debug\net10.0\BIBLIOTECA.sourcelink.json
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\BIBLIOTECA\obj\Debug\net10.0\BIBLIOTECA.dll
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\BIBLIOTECA\obj\Debug\net10.0\refint\BIBLIOTECA.dll
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\BIBLIOTECA\obj\Debug\net10.0\BIBLIOTECA.pdb
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\BIBLIOTECA\obj\Debug\net10.0\BIBLIOTECA.genruntimeconfig.cache
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\BIBLIOTECA\obj\Debug\net10.0\ref\BIBLIOTECA.dll

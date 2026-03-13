@@ -4,10 +4,10 @@ using System.Text;
 
 namespace BIBLIOTECA.DIGITAL.Interfaces
 {
-    public interface Iprestable
+    public interface IPrestable
     {
-        DateTime CalcularLaFechaDeDevolucion();
-        void GenerarComprobanteDePrestamo();
-        decimal CalcularMultaPorRetraso(int diasRetrazo );
+        DateTime CalcularFechaDevolucion();
+        void GenerarComprobantePrestramo();
+        decimal CalcularMultaPorRetraso(int diasRetraso);
     }
 }

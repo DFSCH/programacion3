@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\dfsch\\OneDrive\\Documents\\GitHub\\programacion3\\BIBLIOTECA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9B6085DC-8E5E-457F-B0CD-721A918DB799}|BIBLIOTECA.csproj|c:\\users\\dfsch\\onedrive\\documents\\github\\programacion3\\biblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B6085DC-8E5E-457F-B0CD-721A918DB799}|BIBLIOTECA.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B5089620-AE29-9280-F791-CEEB18E3F943}|BIBLIOTECA.csproj|c:\\users\\dfsch\\onedrive\\documents\\github\\programacion3\\biblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5089620-AE29-9280-F791-CEEB18E3F943}|BIBLIOTECA.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5089620-AE29-9280-F791-CEEB18E3F943}|BIBLIOTECA.csproj|c:\\users\\dfsch\\onedrive\\documents\\github\\programacion3\\biblioteca\\digital\\modelo\\audiolibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5089620-AE29-9280-F791-CEEB18E3F943}|BIBLIOTECA.csproj|solutionrelative:digital\\modelo\\audiolibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5089620-AE29-9280-F791-CEEB18E3F943}|BIBLIOTECA.csproj|c:\\users\\dfsch\\onedrive\\documents\\github\\programacion3\\biblioteca\\digital\\modelo\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5089620-AE29-9280-F791-CEEB18E3F943}|BIBLIOTECA.csproj|solutionrelative:digital\\modelo\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5089620-AE29-9280-F791-CEEB18E3F943}|BIBLIOTECA.csproj|c:\\users\\dfsch\\onedrive\\documents\\github\\programacion3\\biblioteca\\digital\\modelo\\revista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5089620-AE29-9280-F791-CEEB18E3F943}|BIBLIOTECA.csproj|solutionrelative:digital\\modelo\\revista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5089620-AE29-9280-F791-CEEB18E3F943}|BIBLIOTECA.csproj|c:\\users\\dfsch\\onedrive\\documents\\github\\programacion3\\biblioteca\\digital\\modelo\\materialbiblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5089620-AE29-9280-F791-CEEB18E3F943}|BIBLIOTECA.csproj|solutionrelative:digital\\modelo\\materialbiblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5089620-AE29-9280-F791-CEEB18E3F943}|BIBLIOTECA.csproj|c:\\users\\dfsch\\onedrive\\documents\\github\\programacion3\\biblioteca\\digital\\interfaces\\iprestable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5089620-AE29-9280-F791-CEEB18E3F943}|BIBLIOTECA.csproj|solutionrelative:digital\\interfaces\\iprestable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5089620-AE29-9280-F791-CEEB18E3F943}|BIBLIOTECA.csproj|c:\\users\\dfsch\\onedrive\\documents\\github\\programacion3\\biblioteca\\digital\\enums\\tipocategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5089620-AE29-9280-F791-CEEB18E3F943}|BIBLIOTECA.csproj|solutionrelative:digital\\enums\\tipocategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +38,86 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AudioLibro.cs",
+              "DocumentMoniker": "C:\\Users\\dfsch\\OneDrive\\Documents\\GitHub\\programacion3\\BIBLIOTECA\\DIGITAL\\Modelo\\AudioLibro.cs",
+              "RelativeDocumentMoniker": "DIGITAL\\Modelo\\AudioLibro.cs",
+              "ToolTip": "C:\\Users\\dfsch\\OneDrive\\Documents\\GitHub\\programacion3\\BIBLIOTECA\\DIGITAL\\Modelo\\AudioLibro.cs",
+              "RelativeToolTip": "DIGITAL\\Modelo\\AudioLibro.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T11:25:09.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Revista.cs",
+              "DocumentMoniker": "C:\\Users\\dfsch\\OneDrive\\Documents\\GitHub\\programacion3\\BIBLIOTECA\\DIGITAL\\Modelo\\Revista.cs",
+              "RelativeDocumentMoniker": "DIGITAL\\Modelo\\Revista.cs",
+              "ToolTip": "C:\\Users\\dfsch\\OneDrive\\Documents\\GitHub\\programacion3\\BIBLIOTECA\\DIGITAL\\Modelo\\Revista.cs",
+              "RelativeToolTip": "DIGITAL\\Modelo\\Revista.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T11:25:00.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\dfsch\\OneDrive\\Documents\\GitHub\\programacion3\\BIBLIOTECA\\DIGITAL\\Modelo\\Libro.cs",
+              "RelativeDocumentMoniker": "DIGITAL\\Modelo\\Libro.cs",
+              "ToolTip": "C:\\Users\\dfsch\\OneDrive\\Documents\\GitHub\\programacion3\\BIBLIOTECA\\DIGITAL\\Modelo\\Libro.cs",
+              "RelativeToolTip": "DIGITAL\\Modelo\\Libro.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T11:24:51.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MaterialBiblioteca.cs",
+              "DocumentMoniker": "C:\\Users\\dfsch\\OneDrive\\Documents\\GitHub\\programacion3\\BIBLIOTECA\\DIGITAL\\Modelo\\MaterialBiblioteca.cs",
+              "RelativeDocumentMoniker": "DIGITAL\\Modelo\\MaterialBiblioteca.cs",
+              "ToolTip": "C:\\Users\\dfsch\\OneDrive\\Documents\\GitHub\\programacion3\\BIBLIOTECA\\DIGITAL\\Modelo\\MaterialBiblioteca.cs",
+              "RelativeToolTip": "DIGITAL\\Modelo\\MaterialBiblioteca.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T11:24:42.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPrestable.cs",
+              "DocumentMoniker": "C:\\Users\\dfsch\\OneDrive\\Documents\\GitHub\\programacion3\\BIBLIOTECA\\DIGITAL\\Interfaces\\IPrestable.cs",
+              "RelativeDocumentMoniker": "DIGITAL\\Interfaces\\IPrestable.cs",
+              "ToolTip": "C:\\Users\\dfsch\\OneDrive\\Documents\\GitHub\\programacion3\\BIBLIOTECA\\DIGITAL\\Interfaces\\IPrestable.cs",
+              "RelativeToolTip": "DIGITAL\\Interfaces\\IPrestable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T11:24:05.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TIpocategorias.cs",
+              "DocumentMoniker": "C:\\Users\\dfsch\\OneDrive\\Documents\\GitHub\\programacion3\\BIBLIOTECA\\DIGITAL\\Enums\\TIpocategorias.cs",
+              "RelativeDocumentMoniker": "DIGITAL\\Enums\\TIpocategorias.cs",
+              "ToolTip": "C:\\Users\\dfsch\\OneDrive\\Documents\\GitHub\\programacion3\\BIBLIOTECA\\DIGITAL\\Enums\\TIpocategorias.cs",
+              "RelativeToolTip": "DIGITAL\\Enums\\TIpocategorias.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T11:23:46.76Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +126,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\dfsch\\OneDrive\\Documents\\GitHub\\programacion3\\BIBLIOTECA\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-06T11:19:40.731Z",
               "EditorCaption": ""
