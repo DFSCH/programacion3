@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Datatimeyarchivo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+abca8812cc66b5f47b7e963e9661de38afea5e95")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d585b07f906a76b860e07c39d99257ddde6680a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Datatimeyarchivo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Datatimeyarchivo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

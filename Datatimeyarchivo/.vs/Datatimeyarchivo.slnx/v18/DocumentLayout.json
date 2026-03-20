@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{E9A12B26-9038-D87F-919A-20B99C200FDE}|Datatimeyarchivo.csproj|c:\\users\\dfsch\\onedrive\\documents\\github\\programacion3\\datatimeyarchivo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9A12B26-9038-D87F-919A-20B99C200FDE}|Datatimeyarchivo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9A12B26-9038-D87F-919A-20B99C200FDE}|Datatimeyarchivo.csproj|c:\\users\\dfsch\\onedrive\\documents\\github\\programacion3\\datatimeyarchivo\\datatime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9A12B26-9038-D87F-919A-20B99C200FDE}|Datatimeyarchivo.csproj|solutionrelative:datatime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +26,24 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\dfsch\\OneDrive\\Documents\\GitHub\\programacion3\\Datatimeyarchivo\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\dfsch\\OneDrive\\Documents\\GitHub\\programacion3\\Datatimeyarchivo\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\dfsch\\OneDrive\\Documents\\GitHub\\programacion3\\Datatimeyarchivo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-09T13:22:46.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "datatime.cs",
+              "DocumentMoniker": "C:\\Users\\dfsch\\OneDrive\\Documents\\GitHub\\programacion3\\Datatimeyarchivo\\datatime.cs",
+              "RelativeDocumentMoniker": "datatime.cs",
+              "ToolTip": "C:\\Users\\dfsch\\OneDrive\\Documents\\GitHub\\programacion3\\Datatimeyarchivo\\datatime.cs",
+              "RelativeToolTip": "datatime.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T01:47:53.126Z",
               "EditorCaption": ""
             }
           ]
