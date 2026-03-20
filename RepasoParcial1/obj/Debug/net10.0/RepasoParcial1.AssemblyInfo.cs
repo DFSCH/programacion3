@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RepasoParcial1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+12a543da88596adbcfe06fae69f352406f2900fd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+abca8812cc66b5f47b7e963e9661de38afea5e95")]
 [assembly: System.Reflection.AssemblyProductAttribute("RepasoParcial1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RepasoParcial1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

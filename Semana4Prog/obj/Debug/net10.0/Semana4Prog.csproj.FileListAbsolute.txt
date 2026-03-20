@@ -1,0 +1,15 @@
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Semana4Prog\obj\Debug\net10.0\Semana4Prog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Semana4Prog\obj\Debug\net10.0\Semana4Prog.AssemblyInfoInputs.cache
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Semana4Prog\obj\Debug\net10.0\Semana4Prog.AssemblyInfo.cs
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Semana4Prog\obj\Debug\net10.0\Semana4Prog.csproj.CoreCompileInputs.cache
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Semana4Prog\obj\Debug\net10.0\Semana4Prog.sourcelink.json
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Semana4Prog\bin\Debug\net10.0\Semana4Prog.exe
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Semana4Prog\bin\Debug\net10.0\Semana4Prog.deps.json
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Semana4Prog\bin\Debug\net10.0\Semana4Prog.runtimeconfig.json
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Semana4Prog\bin\Debug\net10.0\Semana4Prog.dll
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Semana4Prog\bin\Debug\net10.0\Semana4Prog.pdb
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Semana4Prog\obj\Debug\net10.0\Semana4Prog.dll
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Semana4Prog\obj\Debug\net10.0\refint\Semana4Prog.dll
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Semana4Prog\obj\Debug\net10.0\Semana4Prog.pdb
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Semana4Prog\obj\Debug\net10.0\Semana4Prog.genruntimeconfig.cache
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Semana4Prog\obj\Debug\net10.0\ref\Semana4Prog.dll

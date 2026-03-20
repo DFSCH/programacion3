@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\dfsch\\OneDrive\\Documents\\GitHub\\programacion3\\RepasoParcial1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1B1C0424-572F-41CC-ABCB-CAEF53F81EEB}|RepasoParcial1.csproj|c:\\users\\dfsch\\onedrive\\documents\\github\\programacion3\\repasoparcial1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B1C0424-572F-41CC-ABCB-CAEF53F81EEB}|RepasoParcial1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D5AAA6D9-DB6B-A3C2-011B-5162487DF103}|RepasoParcial1.csproj|c:\\users\\dfsch\\onedrive\\documents\\github\\programacion3\\repasoparcial1\\gloval\\modelos\\paquete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5AAA6D9-DB6B-A3C2-011B-5162487DF103}|RepasoParcial1.csproj|solutionrelative:gloval\\modelos\\paquete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AAA6D9-DB6B-A3C2-011B-5162487DF103}|RepasoParcial1.csproj|c:\\users\\dfsch\\onedrive\\documents\\github\\programacion3\\repasoparcial1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5AAA6D9-DB6B-A3C2-011B-5162487DF103}|RepasoParcial1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "paquete.cs",
+              "DocumentMoniker": "C:\\Users\\dfsch\\OneDrive\\Documents\\GitHub\\programacion3\\RepasoParcial1\\Gloval\\Modelos\\paquete.cs",
+              "RelativeDocumentMoniker": "Gloval\\Modelos\\paquete.cs",
+              "ToolTip": "C:\\Users\\dfsch\\OneDrive\\Documents\\GitHub\\programacion3\\RepasoParcial1\\Gloval\\Modelos\\paquete.cs",
+              "RelativeToolTip": "Gloval\\Modelos\\paquete.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T13:28:16.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\dfsch\\OneDrive\\Documents\\GitHub\\programacion3\\RepasoParcial1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\dfsch\\OneDrive\\Documents\\GitHub\\programacion3\\RepasoParcial1\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-16T13:24:47.366Z",
               "EditorCaption": ""
