@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dfsch\\OneDrive\\Documents\\GitHub\\programacion3\\mi cuenta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD09B58A-2309-3BB1-4878-15E4B5C4EA74}|mi cuenta.csproj|c:\\users\\dfsch\\onedrive\\documents\\github\\programacion3\\mi cuenta\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD09B58A-2309-3BB1-4878-15E4B5C4EA74}|mi cuenta.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD09B58A-2309-3BB1-4878-15E4B5C4EA74}|mi cuenta.csproj|c:\\users\\dfsch\\onedrive\\documents\\github\\programacion3\\mi cuenta\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DD09B58A-2309-3BB1-4878-15E4B5C4EA74}|mi cuenta.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\dfsch\\OneDrive\\Documents\\GitHub\\programacion3\\mi cuenta\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\dfsch\\OneDrive\\Documents\\GitHub\\programacion3\\mi cuenta\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwBIAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T06:41:19.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\dfsch\\OneDrive\\Documents\\GitHub\\programacion3\\mi cuenta\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\dfsch\\OneDrive\\Documents\\GitHub\\programacion3\\mi cuenta\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T12:27:31.044Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
