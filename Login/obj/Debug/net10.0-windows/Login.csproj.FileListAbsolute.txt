@@ -1,0 +1,17 @@
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Login\bin\Debug\net10.0-windows\Login.exe
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Login\bin\Debug\net10.0-windows\Login.deps.json
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Login\bin\Debug\net10.0-windows\Login.runtimeconfig.json
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Login\bin\Debug\net10.0-windows\Login.dll
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Login\bin\Debug\net10.0-windows\Login.pdb
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Login\obj\Debug\net10.0-windows\Login.Form1.resources
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Login\obj\Debug\net10.0-windows\Login.csproj.GenerateResource.cache
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Login\obj\Debug\net10.0-windows\Login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Login\obj\Debug\net10.0-windows\Login.AssemblyInfoInputs.cache
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Login\obj\Debug\net10.0-windows\Login.AssemblyInfo.cs
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Login\obj\Debug\net10.0-windows\Login.csproj.CoreCompileInputs.cache
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Login\obj\Debug\net10.0-windows\Login.sourcelink.json
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Login\obj\Debug\net10.0-windows\Login.dll
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Login\obj\Debug\net10.0-windows\refint\Login.dll
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Login\obj\Debug\net10.0-windows\Login.pdb
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Login\obj\Debug\net10.0-windows\Login.genruntimeconfig.cache
+C:\Users\dfsch\OneDrive\Documents\GitHub\programacion3\Login\obj\Debug\net10.0-windows\ref\Login.dll
