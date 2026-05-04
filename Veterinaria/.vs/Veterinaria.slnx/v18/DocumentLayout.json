@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dfsch\\OneDrive\\Documents\\GitHub\\programacion3\\Veterinaria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB35E2FE-F4CA-7BFD-F752-C674AABCE011}|Veterinaria.csproj|C:\\Users\\dfsch\\OneDrive\\Documents\\GitHub\\programacion3\\Veterinaria\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BB35E2FE-F4CA-7BFD-F752-C674AABCE011}|Veterinaria.csproj|solutionrelative:formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB35E2FE-F4CA-7BFD-F752-C674AABCE011}|Veterinaria.csproj|C:\\Users\\dfsch\\OneDrive\\Documents\\GitHub\\programacion3\\Veterinaria\\formmascotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BB35E2FE-F4CA-7BFD-F752-C674AABCE011}|Veterinaria.csproj|solutionrelative:formmascotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB35E2FE-F4CA-7BFD-F752-C674AABCE011}|Veterinaria.csproj|C:\\Users\\dfsch\\OneDrive\\Documents\\GitHub\\programacion3\\Veterinaria\\formpropietarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BB35E2FE-F4CA-7BFD-F752-C674AABCE011}|Veterinaria.csproj|solutionrelative:formpropietarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB35E2FE-F4CA-7BFD-F752-C674AABCE011}|Veterinaria.csproj|C:\\Users\\dfsch\\OneDrive\\Documents\\GitHub\\programacion3\\Veterinaria\\formconsultas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BB35E2FE-F4CA-7BFD-F752-C674AABCE011}|Veterinaria.csproj|solutionrelative:formconsultas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB35E2FE-F4CA-7BFD-F752-C674AABCE011}|Veterinaria.csproj|C:\\Users\\dfsch\\OneDrive\\Documents\\GitHub\\programacion3\\Veterinaria\\formhistorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BB35E2FE-F4CA-7BFD-F752-C674AABCE011}|Veterinaria.csproj|solutionrelative:formhistorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB35E2FE-F4CA-7BFD-F752-C674AABCE011}|Veterinaria.csproj|c:\\users\\dfsch\\onedrive\\documents\\github\\programacion3\\veterinaria\\formhistorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB35E2FE-F4CA-7BFD-F752-C674AABCE011}|Veterinaria.csproj|solutionrelative:formhistorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB35E2FE-F4CA-7BFD-F752-C674AABCE011}|Veterinaria.csproj|c:\\users\\dfsch\\onedrive\\documents\\github\\programacion3\\veterinaria\\formpropietarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB35E2FE-F4CA-7BFD-F752-C674AABCE011}|Veterinaria.csproj|solutionrelative:formpropietarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB35E2FE-F4CA-7BFD-F752-C674AABCE011}|Veterinaria.csproj|c:\\users\\dfsch\\onedrive\\documents\\github\\programacion3\\veterinaria\\formconsultas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB35E2FE-F4CA-7BFD-F752-C674AABCE011}|Veterinaria.csproj|solutionrelative:formconsultas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB35E2FE-F4CA-7BFD-F752-C674AABCE011}|Veterinaria.csproj|c:\\users\\dfsch\\onedrive\\documents\\github\\programacion3\\veterinaria\\modelo\\propietario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB35E2FE-F4CA-7BFD-F752-C674AABCE011}|Veterinaria.csproj|solutionrelative:modelo\\propietario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB35E2FE-F4CA-7BFD-F752-C674AABCE011}|Veterinaria.csproj|c:\\users\\dfsch\\onedrive\\documents\\github\\programacion3\\veterinaria\\formmascotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB35E2FE-F4CA-7BFD-F752-C674AABCE011}|Veterinaria.csproj|solutionrelative:formmascotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB35E2FE-F4CA-7BFD-F752-C674AABCE011}|Veterinaria.csproj|c:\\users\\dfsch\\onedrive\\documents\\github\\programacion3\\veterinaria\\controller\\propietariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB35E2FE-F4CA-7BFD-F752-C674AABCE011}|Veterinaria.csproj|solutionrelative:controller\\propietariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB35E2FE-F4CA-7BFD-F752-C674AABCE011}|Veterinaria.csproj|c:\\users\\dfsch\\onedrive\\documents\\github\\programacion3\\veterinaria\\modelo\\mascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB35E2FE-F4CA-7BFD-F752-C674AABCE011}|Veterinaria.csproj|solutionrelative:modelo\\mascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB35E2FE-F4CA-7BFD-F752-C674AABCE011}|Veterinaria.csproj|c:\\users\\dfsch\\onedrive\\documents\\github\\programacion3\\veterinaria\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB35E2FE-F4CA-7BFD-F752-C674AABCE011}|Veterinaria.csproj|solutionrelative:formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PropietarioController.cs",
+              "DocumentMoniker": "C:\\Users\\dfsch\\OneDrive\\Documents\\GitHub\\programacion3\\Veterinaria\\Controller\\PropietarioController.cs",
+              "RelativeDocumentMoniker": "Controller\\PropietarioController.cs",
+              "ToolTip": "C:\\Users\\dfsch\\OneDrive\\Documents\\GitHub\\programacion3\\Veterinaria\\Controller\\PropietarioController.cs",
+              "RelativeToolTip": "Controller\\PropietarioController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAYwD4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T13:01:09.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Propietario.cs",
+              "DocumentMoniker": "C:\\Users\\dfsch\\OneDrive\\Documents\\GitHub\\programacion3\\Veterinaria\\MODELO\\Propietario.cs",
+              "RelativeDocumentMoniker": "MODELO\\Propietario.cs",
+              "ToolTip": "C:\\Users\\dfsch\\OneDrive\\Documents\\GitHub\\programacion3\\Veterinaria\\MODELO\\Propietario.cs",
+              "RelativeToolTip": "MODELO\\Propietario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T13:00:21.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormConsultas.cs",
+              "DocumentMoniker": "C:\\Users\\dfsch\\OneDrive\\Documents\\GitHub\\programacion3\\Veterinaria\\FormConsultas.cs",
+              "RelativeDocumentMoniker": "FormConsultas.cs",
+              "ToolTip": "C:\\Users\\dfsch\\OneDrive\\Documents\\GitHub\\programacion3\\Veterinaria\\FormConsultas.cs",
+              "RelativeToolTip": "FormConsultas.cs",
+              "ViewState": "AgIAAN0AAAAAAAAAAAAUwO4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T21:01:00.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormConsultas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\dfsch\\OneDrive\\Documents\\GitHub\\programacion3\\Veterinaria\\FormConsultas.cs",
+              "RelativeDocumentMoniker": "FormConsultas.cs",
+              "ToolTip": "C:\\Users\\dfsch\\OneDrive\\Documents\\GitHub\\programacion3\\Veterinaria\\FormConsultas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormConsultas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T21:40:38.472Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormHistorial.cs",
+              "DocumentMoniker": "C:\\Users\\dfsch\\OneDrive\\Documents\\GitHub\\programacion3\\Veterinaria\\FormHistorial.cs",
+              "RelativeDocumentMoniker": "FormHistorial.cs",
+              "ToolTip": "C:\\Users\\dfsch\\OneDrive\\Documents\\GitHub\\programacion3\\Veterinaria\\FormHistorial.cs",
+              "RelativeToolTip": "FormHistorial.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAwwI8AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T14:53:56.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\dfsch\\OneDrive\\Documents\\GitHub\\programacion3\\Veterinaria\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "FormPrincipal.cs",
+              "ToolTip": "C:\\Users\\dfsch\\OneDrive\\Documents\\GitHub\\programacion3\\Veterinaria\\FormPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T11:05:24.628Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Mascota.cs",
+              "DocumentMoniker": "C:\\Users\\dfsch\\OneDrive\\Documents\\GitHub\\programacion3\\Veterinaria\\MODELO\\Mascota.cs",
+              "RelativeDocumentMoniker": "MODELO\\Mascota.cs",
+              "ToolTip": "C:\\Users\\dfsch\\OneDrive\\Documents\\GitHub\\programacion3\\Veterinaria\\MODELO\\Mascota.cs",
+              "RelativeToolTip": "MODELO\\Mascota.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T13:00:20.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormHistorial.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\dfsch\\OneDrive\\Documents\\GitHub\\programacion3\\Veterinaria\\FormHistorial.cs",
+              "RelativeDocumentMoniker": "FormHistorial.cs",
+              "ToolTip": "C:\\Users\\dfsch\\OneDrive\\Documents\\GitHub\\programacion3\\Veterinaria\\FormHistorial.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormHistorial.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T14:49:29.706Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormMascotas.cs",
+              "DocumentMoniker": "C:\\Users\\dfsch\\OneDrive\\Documents\\GitHub\\programacion3\\Veterinaria\\FormMascotas.cs",
+              "RelativeDocumentMoniker": "FormMascotas.cs",
+              "ToolTip": "C:\\Users\\dfsch\\OneDrive\\Documents\\GitHub\\programacion3\\Veterinaria\\FormMascotas.cs",
+              "RelativeToolTip": "FormMascotas.cs",
+              "ViewState": "AgIAAMsAAAAAAAAAAAAqwNIAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T06:38:43.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormMascotas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\dfsch\\OneDrive\\Documents\\GitHub\\programacion3\\Veterinaria\\FormMascotas.cs",
+              "RelativeDocumentMoniker": "FormMascotas.cs",
+              "ToolTip": "C:\\Users\\dfsch\\OneDrive\\Documents\\GitHub\\programacion3\\Veterinaria\\FormMascotas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormMascotas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T19:56:30.473Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormPropietarios.cs",
+              "DocumentMoniker": "C:\\Users\\dfsch\\OneDrive\\Documents\\GitHub\\programacion3\\Veterinaria\\FormPropietarios.cs",
+              "RelativeDocumentMoniker": "FormPropietarios.cs",
+              "ToolTip": "C:\\Users\\dfsch\\OneDrive\\Documents\\GitHub\\programacion3\\Veterinaria\\FormPropietarios.cs",
+              "RelativeToolTip": "FormPropietarios.cs",
+              "ViewState": "AgIAAAMBAAAAAAAAAAAqwAwBAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T22:34:29.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormPropietarios.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\dfsch\\OneDrive\\Documents\\GitHub\\programacion3\\Veterinaria\\FormPropietarios.cs",
+              "RelativeDocumentMoniker": "FormPropietarios.cs",
+              "ToolTip": "C:\\Users\\dfsch\\OneDrive\\Documents\\GitHub\\programacion3\\Veterinaria\\FormPropietarios.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormPropietarios.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T13:29:45.559Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\dfsch\\OneDrive\\Documents\\GitHub\\programacion3\\Veterinaria\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "FormPrincipal.cs",
+              "ToolTip": "C:\\Users\\dfsch\\OneDrive\\Documents\\GitHub\\programacion3\\Veterinaria\\FormPrincipal.cs",
+              "RelativeToolTip": "FormPrincipal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T22:14:43.574Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
